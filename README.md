@@ -1,6 +1,7 @@
 ### Hi there, I'm Alexandr Maroz  👋
 
 ## I'm a Data analyst!
+- Successfully completed Yandex Practicum courses
 - 🔭 I'm actively looking for a job
 
 ### Connect with me:
