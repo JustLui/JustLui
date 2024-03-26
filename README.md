@@ -4,8 +4,10 @@
 - 🔭 I'm actively looking for a job
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JustLui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JustLui | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JustLui | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
 
 <br />
 
@@ -31,3 +33,4 @@ pandas, matplotlib, seaborn, plotly, scipy, numpy, Tableau
 [yandex]: https://yandex.ru/
 [linkedin]: https://www.linkedin.com/in/alexandr-moroz-308360228/
 [instagram]: https://www.instagram.com/justluik/
+[telegram]: https://t.me/justluik
