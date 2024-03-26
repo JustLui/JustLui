@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandr Maroz  👋
+### Hi there, I'm Alexandr Moroz  👋
 
 ## I'm a Data analyst!
 - Successfully completed Yandex Practicum courses
