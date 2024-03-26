@@ -9,7 +9,6 @@
 [<img align="left" alt="JustLui | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
-
 [<img align="left" alt="JustLui | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] - alexandrmaroz90@gmail.com
 
 
