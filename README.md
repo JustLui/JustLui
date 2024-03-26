@@ -1,9 +1,7 @@
 ### Hi there, I'm Alexandr Maroz  👋
 
 ## I'm a Data analyst!
-- 🔭 I’m currently 
-- 🥅 2024 Goals: TBD
-- ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
+- 🔭 I'm actively looking for a job
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
